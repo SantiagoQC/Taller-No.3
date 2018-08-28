@@ -1,4 +1,9 @@
 
+/* 
+* Programa: Convertir dolares en pesos
+* Fecha: 21-08-2018
+* Elaborado por: Santiago Quintero
+*/
 #include <iostream>
 
 using namespace std;
